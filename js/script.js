@@ -67,7 +67,7 @@ const config = {
             {
                 inGameName: "The_Gamer1315",
                 rank: "Admin",
-                skinUrlOrPathToFile: "https://qu.ax/JNxyY.png",
+                skinUrlOrPathToFile: "https://qu.ax/MXMRG.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             ],
