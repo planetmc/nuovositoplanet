@@ -49,7 +49,9 @@ const config = {
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
-            },
+            }
+            ],
+        admins: [
             {
                 inGameName: "Ratatui",
                 rank: "Admin",
@@ -65,16 +67,10 @@ const config = {
             {
                 inGameName: "The_Gamer1315",
                 rank: "Admin",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "https://qu.ax/JNxyY.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
-            {
-                inGameName: "RealManuxo10",
-                rank: "SrMod",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            }
-        ],
+            ],
         mods: [
                         {
                 inGameName: "RealManuxo10",
